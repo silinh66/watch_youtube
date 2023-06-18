@@ -1,0 +1,8 @@
+B1. Click vào file node-v18.16.0-x64.msi và cài đặt NodeJS
+B2. Chỉnh cài đặt trong file config.txt:
+	- Dòng đầu tiên là thời gian đợi sau khi mở edge và trước khi vào youtube (giây)
+	- Dòng 2 thời gian xem video (giờ)
+	- Các dòng tiếp theo là danh sách các video, mỗi dòng là 1 video cần xem có format:
+		Từ khoá|ID video
+	VD: Taylor Swift|9OAIg3Y0u70
+B3. Click chạy file app.exe
